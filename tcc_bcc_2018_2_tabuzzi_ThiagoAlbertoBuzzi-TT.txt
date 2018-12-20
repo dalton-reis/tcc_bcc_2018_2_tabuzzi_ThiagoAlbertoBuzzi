@@ -1,0 +1,3 @@
+Para realizar o desenvolvimento do trabalho foi utilizada a versão 2018.2 do Unity com apoio do Visual Studio para criação e alterção dos scripts em linguagem C#.
+Para abrir o projeto, basta descompactar o conteúdo presente na pasta ..\tcc_bcc_2018_2_tabuzzi_ThiagoAlbertoBuzzi\fontes\projeto.zip e importar o projeto através do Unity.
+Não foram utilizadas outras ferramentas que necessitem de instruções ou links, somente a ferramenta online draw.io para criação dos fluxos disponíveis na pasta ..\tcc_bcc_2018_2_tabuzzi_ThiagoAlbertoBuzzi\outros.
